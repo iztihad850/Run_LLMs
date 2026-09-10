@@ -2,6 +2,7 @@ DeepSeekMath/deepseek_math_tokenizer
 DeepSeekMath/GSM8K_checkpoints
 GanitLLM/GSM8K_checkpoints
 GanitLLM/MGSM_en_checkpoints
+DeepSeekMath/MGSM_en_checkpoints
 /unsloth_compiled_cache
 GanitLLM/unsloth_compiled_cache
 DeepSeekMath/unsloth_compiled_cache
