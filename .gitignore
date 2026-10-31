@@ -1,6 +1,7 @@
 DeepSeekMath/deepseek_math_tokenizer
 DeepSeekMath/MGSM_en_checkpoints
 DeepSeekMath/MGSM_bn_checkpoints
+DeepSeekMath/MGSM_bn_checkpoints_v2
 DeepSeekMath/MSVAMP_en_checkpoints
 DeepSeekMath/MSVAMP_bn_checkpoints
 DeepSeekMath/unsloth_compiled_cache
@@ -13,5 +14,6 @@ Qwen3_8B/MSVAMP_bn_checkpoints
 LLaMA_3.1_8B/unsloth_compiled_cache
 LLaMA_3.1_8B/MGSM_en_checkpoints
 LLaMA_3.1_8B/MGSM_bn_checkpoints
+LLaMA_3.1_8B/MGSM_bn_checkpoints_v2
 LLaMA_3.1_8B/MSVAMP_en_checkpoints
 LLaMA_3.1_8B/MSVAMP_bn_checkpoints
